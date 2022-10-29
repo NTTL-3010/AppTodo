@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AppTodo/static/css/main.0b42b6fb.css",
+    "main.js": "/AppTodo/static/js/main.94455976.js",
+    "static/js/787.8690f042.chunk.js": "/AppTodo/static/js/787.8690f042.chunk.js",
+    "static/media/Me.png": "/AppTodo/static/media/Me.b3b14dc0ddc9f880f90b.png",
+    "static/media/wallpaper.png": "/AppTodo/static/media/wallpaper.bf0d3dcdaf684d2c3d12.png",
+    "index.html": "/AppTodo/index.html",
+    "main.0b42b6fb.css.map": "/AppTodo/static/css/main.0b42b6fb.css.map",
+    "main.94455976.js.map": "/AppTodo/static/js/main.94455976.js.map",
+    "787.8690f042.chunk.js.map": "/AppTodo/static/js/787.8690f042.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b42b6fb.css",
+    "static/js/main.94455976.js"
+  ]
+}
